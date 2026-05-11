@@ -1,40 +1,54 @@
-# Hi, I'm Preston
-I'm a **Computer Science** student at the **University of Waterloo**
-specializing in **Digital Hardware**.
+# 💫 About Me
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0366D6&center=true&vCenter=true&width=435&lines=Hi,+I'm+Preston+Wong;UWaterloo+Computer+Science;Specializing+in+Digital+Hardware;Building+Scalable+Software" alt="Typing SVG" />
+</p>
+
 ---
 
-### Technical Toolkit
-- **Languages:** JavaScript (ES6+), TypeScript, Bash, C/C++
-- **Frameworks/Libraries:** React Native, Expo, React.js
-- **Backend/Infrastructure:** Firebase, Stripe API, Linux (Fedora/Ubuntu),
-SSH Tunneling
-- **Hardware/Embedded:** Raspberry Pi, Digital Logic Design, Circuit
-Analysis
-- **AI/ML:** Local LLM Deployment (Ollama), Quantization Benchmarking
----
-### Key Projects
-#### **Doubly**
-*Lead Developer & Technical Lead*
-- Developing a cross-platform mobile application using **React Native** and
-**Expo**.
-- Implementing secure authentication and real-time database management with
-**Firebase**.
-- Integrating payment processing using the **Stripe API**.
-#### **Home Infrastructure & AI**
-- Configured a private **VPN Gateway** using a Raspberry Pi 3B+ and
-**Tailscale**.
-- Deployed localized Small Language Models using **Ollama**, optimizing for
+### 🚀 Quick Summary
+- 🎓 **Student:** Computer Science @ **University of Waterloo** (Specializing in Digital Hardware).
+- 💻 **Focus:** The intersection of scalable software and low-level systems design.
+- 🏸 **Outside of Code:** Competitive badminton player of 12+ years and a mechanical keyboard enthusiast.
 
-4-bit vs. 8-bit quantization.
-- Managed secure remote environments via automated Bash scripts and SSH.
 ---
 
-### Current Interests
-- Exploring **Digital Hardware** and system-level optimizations.
-- Advancing my knowledge in full-stack mobile development.
-- Competing in badminton and keeping up with the latest in tech hardware.
+### 🛠️ Technical Stack
+
+<p align="left">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <br/>
+  <!-- Frameworks & Tools -->
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
+</p>
+
 ---
 
-### Let's Connect
-- **LinkedIn:** [Linkedin](https://www.linkedin.com/in/preston-j-wong/)
-- **Email:** preston.j.wong@gmail.com
+### 📂 Featured Projects
+
+#### 📱 [Doubly](https://github.com/Kenneth88880/mobile-project)
+> **Technical Lead** | Cross-platform mobile app for community collaboration.
+- Built with **React Native** & **Expo**.
+- Secured with **Firebase Authentication** and integrated with **Stripe** for payments.
+
+#### 🤖 [Home AI & Infrastructure](https://github.com/preston-j-wong/gmailSummaryTool)
+> Private secure environment using localized LLMs.
+- Configured a **Tailscale VPN Gateway** on a Raspberry Pi 3B+.
+- Deployed **Ollama** for local inference with optimized quantization.
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="https://linkedin.com/in/preston-j-wong" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:preston.j.wong@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
