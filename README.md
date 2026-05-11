@@ -43,7 +43,7 @@
 > Private secure environment using localized LLMs.
 - Configured a **Tailscale Gateway** on an old Surface Book 3
 - Deployed **Ollama** for local inference with optimized quantization.
-- Created a script to scan through emails and returns a summary of the lst 24 hours of emails 
+- Created a script to scan through emails and returns a summary of the last 24 hours of emails 
 
 ---
 
