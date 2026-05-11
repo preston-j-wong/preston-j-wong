@@ -8,7 +8,6 @@
 
 ### 🚀 Quick Summary
 - 🎓 **Student:** Computer Science @ **University of Waterloo** (Specializing in Digital Hardware).
-- 💻 **Focus:** The intersection of scalable software and low-level systems design.
 - 🏸 **Outside of Code:** Competitive badminton player of 12+ years and a mechanical keyboard enthusiast.
 
 ---
@@ -42,8 +41,9 @@
 
 #### 🤖 [Home AI & Infrastructure](https://github.com/preston-j-wong/gmailSummaryTool)
 > Private secure environment using localized LLMs.
-- Configured a **Tailscale VPN Gateway** on a Raspberry Pi 3B+.
+- Configured a **Tailscale Gateway** on an old Surface Book 3
 - Deployed **Ollama** for local inference with optimized quantization.
+- Created a script to scan through emails and returns a summary of the lst 24 hours of emails 
 
 ---
 
