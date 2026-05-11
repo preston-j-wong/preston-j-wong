@@ -39,7 +39,7 @@
 - Built with **React Native** & **Expo**.
 - Secured with **Firebase Authentication** and integrated with **Stripe** for payments.
 
-#### 🤖 [Home AI & Infrastructure](https://github.com/preston-j-wong/gmailSummaryTool)
+#### 🤖 [Gmail Summary For At Home AI Server](https://github.com/preston-j-wong/gmailSummaryTool)
 > Private secure environment using localized LLMs.
 - Configured a **Tailscale Gateway** on an old Surface Book 3
 - Deployed **Ollama** for local inference with optimized quantization.
