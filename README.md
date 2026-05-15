@@ -16,7 +16,7 @@
 ## 🚀 Quick Summary
 
 - 🎓 **Student:** Computer Science @ **University of Waterloo** — Specializing in Digital Hardware
-- 💼 **Actively seeking a Fall 2026 co-op** in software engineering, research, or systems
+- 💼 **Actively seeking a Fall 2026 co-op** — open to all opportunities
 - 🤖 **Current focus:** Local LLM inference, private AI infrastructure, and AI-native developer tooling
 - 🏸 **Outside of code:** Competitive badminton player (12+ years), mechanical keyboard hobbyist
 
@@ -27,7 +27,7 @@
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -65,10 +65,18 @@
 ### 🤖 [Private AI Home Server + Gmail Intelligence Tool](https://github.com/preston-j-wong/gmailSummaryTool)
 > Self-hosted AI infrastructure with a practical LLM-powered email workflow
 
-- Configured a **Tailscale** mesh VPN gateway on a repurposed Surface Book 3 for secure remote access
 - Deployed **Ollama** for fully local LLM inference — no data leaves the machine
 - Researched and benchmarked **4-bit vs. 8-bit quantization** tradeoffs for edge-optimized models on a **Surface Book 3**
 - Built a Python script that scans Gmail and returns an AI-generated digest of the last 24 hours of emails
+
+---
+
+## 🔧 Hardware & Infrastructure
+
+| Device | Role | Stack |
+|---|---|---|
+| 🖥️ Surface Book 3 | Local AI inference server | Ollama, Tailscale, quantized LLMs, Python, Linux, Bash|
+| 🥧 Raspberry Pi 3B+ | Edge network, VPN gateway | Tailscale, Linux, Bash |
 
 ---
 
